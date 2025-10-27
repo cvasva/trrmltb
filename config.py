@@ -5,11 +5,11 @@ TELEGRAM_API = 27731966
 TELEGRAM_HASH = "a94bbe4569ffcb3db064a59a40f2a7b8"
 # OPTIONAL CONFIG
 TG_PROXY = {}
-USER_SESSION_STRING = "mongodb+srv://teamhdt:Qlapdutj7S67u4HW@cluster1.6p8wkax.mongodb.net/?retryWrites=true&w=majority"
+USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://teamhdt:Qlapdutj7S67u4HW@cluster1.6p8wkax.mongodb.net/?retryWrites=true&w=majority"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
